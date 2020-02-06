@@ -20,3 +20,9 @@
 .App-link {
   color: #09d3ac;
 }
+.collection-item{
+  cursor: pointer;
+}
+.blur-text{
+  color: #389c9c;
+}
